@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/VAbhijith2003github)
+[![An image of @vabhijith2003github's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vabhijith2003github)](https://holopin.io/@vabhijith2003github)
 <h1 align="center">Hi 👋, I'm V Abhijith</h1>
 <h3 align="center">An enthusiastic fullstack developer from India</h3>
 <img alt="coding" width = "400" align = "right"   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk4ZDI4OTQzZTk2ZTZjNWQ3MmVkNmZkMmI3OWEwMGEzOThjNmUxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
